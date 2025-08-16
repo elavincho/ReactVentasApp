@@ -1,8 +1,36 @@
-# React + Vite
+# React + Vite App de Ventas - Consumir una API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+En este proyecto realicé una app de ventas, obteniendo datos de la **API** de Fake Store API **fakestoreapi.com** el cual nos provee todo lo necesario para simular una app de ventas.
 
-Currently, two official plugins are available:
+## Tecnologías utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Frontend**:
+  - React + Vite
+  - Bootstrap
+<!---
+- **Deploy**:
+  - Netlify
+
+## Link del Proyecto
+- https://elavinchorickandmortyapi.netlify.app
+--->
+## Objetivo del Proyecto
+
+Este sistema tiene la finalidad de obtener productos de una API para simular un ecommerce de la cual obtenemos productos con todos sus datos como por ejemplo:
+
+- Id
+- Nombre del producto
+- Precio
+- Imagenes
+- Descripción
+
+## Imagenes del proyecto
+
+<img src="https://github.com/elavincho/ReactVentasApp/blob/master/img/img_1.png" width="200" height="200" alt="img"/>           <img src="https://github.com/elavincho/ReactVentasApp/blob/master/img/img_2.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactVentasApp/blob/master/img/img_3.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactVentasApp/blob/master/img/img_4.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactVentasApp/blob/master/img/img_5.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactVentasApp/blob/master/img/img_6.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactVentasApp/blob/master/img/img_7.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactVentasApp/blob/master/img/img_8.png" width="200" height="200" alt="img"/> 
+
+
+## Video del proyecto
+
+
+[![Video tutorial](https://github.com/elavincho/ReactVentasApp/blob/master/img/img_video.png)](https://youtu.be/lVUGsuTNC7Y)
+
