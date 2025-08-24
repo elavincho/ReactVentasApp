@@ -21,7 +21,7 @@ Este sistema tiene la finalidad de obtener productos de una API para simular un 
 - Id
 - Nombre del producto
 - Precio
-- Imagenes
+- Imágenes
 - Descripción
 
 ## Imágenes del proyecto
