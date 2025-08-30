@@ -1,3 +1,5 @@
+<img src="https://github.com/elavincho/ecommerce/blob/master/images/bolso-logo.png" width="80" height="80" alt="img"/>
+
 # React + Vite App de Ventas - Consumir una API
 
 En este proyecto realicé una app de ventas, obteniendo datos de la **API** de Fake Store API **fakestoreapi.com** el cual nos provee todo lo necesario para simular una app de ventas.
